@@ -3,8 +3,8 @@ class MdviewCli < Formula
 
   desc "Preview Markdown files with mdview.io from the terminal"
   homepage "https://mdview.io"
-  url "https://files.pythonhosted.org/packages/47/12/20f507ca34e77620896acd275e012f1d9e63c133847e9cd65633dc7f1bb9/mdview_cli-0.1.0.tar.gz"
-  sha256 "b2112330fb3dbc148053862a6eddf179fa3c7f2568c38c4867a852bf708e4733"
+  url "https://files.pythonhosted.org/packages/00/79/ea67c41167c859b3b15a60fc13b3728c04182c17cc42c9cbaa8c71ab5b52/mdview_cli-1.0.0.tar.gz"
+  sha256 "9101f17d5d83725dd985f9ba548dd940ce499e8a4a712c7cf2e34fd260cfca76"
   license "MIT"
 
   depends_on "python@3.13"
